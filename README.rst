@@ -13,6 +13,13 @@ Data migration in Python
 
 Documentation_
 
+°²×°
+----
+.. code-block:: python
+
+   >>> pip install git+https://github.com/liudengfeng/odo.git
+
+
 Example
 -------
 
