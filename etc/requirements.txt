@@ -1,4 +1,4 @@
-datashape >= 0.5.4
+datashape >= 0.5.2
 numpy >= 1.7
 pandas >= 0.21.0
 toolz >= 0.7.3
