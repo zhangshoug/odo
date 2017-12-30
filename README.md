@@ -1,5 +1,5 @@
 
-# ODO
+# odo
 
 `Python`数据迁移
 适应`Pandas`和`networkx`升级有小部分修订
@@ -13,7 +13,7 @@
 
 `>>> python setup.py install`
 
-+ 警告：安装后请不要再升级！！！
++ 警告：安装完成后，请不要再升级`odo`和`blaze`！
 
 ## 测试
 
