@@ -11,7 +11,7 @@
 3. 转移至安装目录
 4. 执行安装
 
-`>>> python setup.py install`
+`>>> pip install .`
 
 + 警告：安装完成后，请不要再升级`odo`和`blaze`！
 
