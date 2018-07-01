@@ -4,6 +4,7 @@ import os
 from fnmatch import fnmatch
 from setuptools import setup, find_packages
 
+import codecs
 import versioneer
 
 
@@ -22,7 +23,7 @@ package_data = [x.replace('odo' + os.sep, '') for x in
 
 
 def read(filename):
-    with open(filename, 'r') as f:
+    with codecs.open(filename, 'r') as f:
         return f.read()
 
 
